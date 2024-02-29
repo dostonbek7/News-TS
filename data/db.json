@@ -1,0 +1,77 @@
+{
+  "news":[
+    {
+      "id":1,
+      "title":"Yevropa qiruvchilari Rossiya samolyotlarini kuzatib bordi",
+      "description":"Germaniya harbiy-havo kuchlari Eurofighter qiruvchi samolyotlarini trevoga bo'yicha havoga ko'tardi. Keyinchalik Rossiya Aerokosmik kuchlari samolyotini Fransiyaning Mirage qiruvchi samolyotlari kuzatib bordi.Germaniya va Fransiya qiruvchi samolyotlari Boltiq dengizi ustidagi havo hududida Rossiyaning Il-20 razvedka samolyotini kuzatib bordi. 27 fevral, seshanba kuni Germaniya harbiy-havo kuchlarining X ijtimoiy tarmog'ida xabar qilinganidek, Eurofighter nemis qiruvchilari Meklenburg-Sharqiy Pomeraniya federal yeridagi Laagedagi bazadan Helsinki sharqida Rossiyaning «parvoz rejasisiz» harakatlangan Il-20M razvedka samolyoti payqab qolinganidan so'ng trevoga bo'yicha havoga ko'tarildi. ",
+      "imageUrl":"/assets/jet.jpg",
+      "newsUrl":"https://kun.uz/news/2024/02/28/yevropa-qiruvchilari-rossiya-samolyotlarini-kuzatib-bordi",
+      "xashtag":[
+        "#qiruvchi", "#urush", "#siyosat"
+      ],
+      "seenCounter":28381,
+      "postedAt":"28.02.2024"
+    },
+    {
+      "id":2,
+      "title":"Stoltenberg: NATO Ukrainaga qo'shin jo'natish niyatida emas",
+      "description":"NATO bosh kotibining so'zlariga ko'ra, alyans a'zolari 2014 yildan beri Ukrainaga «misli ko'rilmagan yordam» ko'rsatmoqda, biroq mamlakat hududiga qo'shin joylashtirish rejalashtirilmagan.NATO Ukrainaga jangovar qo'shin yuborishni rejalashtirmayapti, dedi alyans bosh kotibi Yyens Stoltenberg 27 fevral, seshanba kuni Associated Press agentligiga ba'zi G'arb davlatlari urishayotgan mamlakatga qo'shin yuborish imkoniyatini ko'rib chiqayotgani haqidagi xabarlar ortidan.",
+      "imageUrl":"/assets/NATO.jpg",
+      "newsUrl":"https://kun.uz/news/2024/02/28/stoltenberg-nato-ukrainaga-qoshin-jonatish-niyatida-emas",
+      "xashtag":[
+        "#Ukraina", "#urush", "#NATO"
+      ],
+      "seenCounter":3453,
+      "postedAt":"28.02.2024"
+    },
+    {
+      "id":3,
+      "title":"Xitoy yadro quroliga ega davlatlarni shartnoma tuzishga chaqirdi",
+      "description":"Xitoy Tashqi ishlar vazirligining Qurol nazorati departamenti bosh direktori Sun Syaobo Jenevada bo'lib o'tgan Qurolsizlanish bo'yicha konferensiyada yadroviy qurolga ega davlatlarni BMT konvensiyasiga muvofiq yadroviy qurolsizlanish bo'yicha “maxsus va ustuvor vazifalarini” bajarishga chaqirdi.Unga ko'ra, tegishli konferensiya yadro quroliga ega bo'lmagan davlatlarni yadroviy tahdiddan himoya qiladigan xalqaro huquqiy hujjatning yo'l xaritasi yoki jadvalini belgilashi kerak. Bugungi kunda dunyoda taxminan 13 080 ta yadro kallaklari mavjud. Rossiya va AQSH dunyodagi eng yirik yadro arsenaliga ega. Xitoy va Hindiston esa “birinchi bo'lib foydalanmaslik” siyosatiga rasman amal qiladigan yagona yadroviy qurolga ega davlatlardir.",
+      "imageUrl":"/assets/nuclear.jpg",
+      "newsUrl":"https://daryo.uz/2024/02/29/xitoy-yadro-quroliga-ega-davlatlarni-shartnoma-tuzishga-chaqirdi ",
+      "xashtag":[
+        "#yadro", "#Xitoy", "#AQSh"
+      ],
+      "seenCounter":954,
+      "postedAt":"29.02.2024"
+    },
+    {
+      "id":4,
+      "title":"Abdusattorov jahon reytingida top-10'ga kirgan birinchi o'zbekistonlik shaxmatchi bo'ldi",
+      "description":"O'zbekistonlik grossmeyster Nodirbek Abdusattorov Butunjahon shaxmat reytingida kuchli o'ntalikka kirdi. Bu haqda shaxmat reytinglarini hisoblab boradigan 2700chess.com sayti xabar berdi.Ayni kunlarda o'zbekistonlik shaxmatchi Chexiya poytaxti Pragada o'tkazilayotgan “Prague Chess Festival 2024” turnirida ishtirok etmoqda. Musobaqaning 1-turida Abdusattorov mezbon shaxmatchi Day Van Nguyen ustidan g'alaba qozondi.Nguyenni mag'lubiyatga uchratgach, 19 yoshli Abdusattorov tarixda birinchi marta shaxmat reytingida top-10'ga kirgan o'zbekistonlik grossmeyterga aylandi. Hozirga kelib Abdusattorov reytingda 2753.5 ochko to'plagan.Qayd etish joiz, g'alaba Nodirbekka reytingda shaxmat bo'yicha 5 karra jahon chempioni, hindistonlik Vishvanatan Anandni ortda qoldirishga zamin yaratdi. Bungacha o'zbekistonlik shaxmatchilar ichida eng yaxshi natija Rustam Qosimjonovga tegishli bo'lib, u 2715 ochko bilan dunyo reytingida 11-o'rinda egallagan.",
+      "imageUrl":"/assets/chess.jpg",
+      "newsUrl":"https://www.qalampir.uz/uz/news/abdusattorov-zha%D2%B3on-reytingida-top-10-ga-kirgan-birinchi-uzbekistonlik-shakhmatchi-buldi-98033",
+      "xashtag":[
+        "#Nodirbek Abdusattorov"
+      ],
+      "seenCounter":3215,
+      "postedAt":"28.02.2024"
+    },
+    {
+      "id":5,
+      "source":"qalampir.uz",
+      "title":"Abbosbek Fayzullayev Osiyo kubogining eng yaxshi yosh futbolchisi bo'ldi",
+      "description":"O'zbekiston milliy terma jamoasi va Moskvaning SSKA klubi a'zosi Abbosbek Fayzullayev Qatar yashil maydonlarida bo'lib o'tgan Osiyo kubogining eng yaxshi yosh futbolchisi, deb topildi. Bu haqda musobaqa rasmiy sahifasi ma'lum qildi.Abbosbek Fayzullayev musobaqa davomida 2 marta raqiblar darvozasini ishg'ol qilishga muvaffaq bo'ldi. 20 yoshli futbolchi mazkur sovrin uchun kurashda janubiy koreyalik Li Kan-In, yaponiyalik Takefusa Kubo, saudiya arabistonilik Abdulloh Radif va indoneziyalik Marselino Ferdinanni ortda qoldirdi.Ma'lumot uchun, 20 yoshli Fayzullayev o'tgan yozda SSKAga o'tgan edi. “Armiyachilar” tarkibida hujumkor yarim himoyachi 18 ta o'yin o'tkazib, 2 ta gol urdi va 9 ta golli uzatmani amalga oshirdi.",
+      "imageUrl":"/assets/football.jpg",
+      "newsUrl":"https://www.qalampir.uz/uz/news/abbosbek-fayzullayev-osiye-kubogining-eng-yakhshi-yesh-futbolchisi-buldi-97949",
+      "xashtag":[
+        "#futbol", "#Abbosbek Fayzullayev"
+      ],
+      "seenCounter":12251,
+      "postedAt":"26.02.2024"
+    },
+    {
+      "id":6,
+      "title":"Apple elektromobil ishlab chiqarish loyihasidan voz kechdi ",
+      "description":"Kompaniya sun'iy intellekt sohasidagi ishlanmalar bilan shug'ullanishga e'tibor qaratgani ta'kidlanmoqda.Apple 10 yil avval boshlangan elektromobil yaratish bo'yicha o'z tarixidagi eng ulug'vor loyihalardan birini qisqartirishga qaror qildi. Bu haqda BBC xabar berdi.Apple tomonidan maxfiy ravishda olib orilgan Project Titan loyihasida ikki mingga yaqin odam ishlagan, kompaniyada ular Special Projecs Group nomi bilan tanilgan edi. Endi ulardan ba'zilari sun'iy intellekt sohasidagi ishlanmalar bilan shug'ullanuvchi bo'limga o'tkaziladi.Apple kompaniyasining o'zi bu xabarlarga izoh bermadi.Qayd qilinishicha, so'nggi paytlarda elektromobillarga talab pasayib ketdi va elektr transport vositalari bozori tobora raqobatdosh bo'lib bormoqda. Hatto ishbilarmon Ilon Mask asos solgan Tesla xitoylik ishlab chiqaruvchilarning keskin raqobati tufayli dunyoning asosiy bozorlarida, jumladan, Yevropa Ittifoqi va Xitoyda elektromobillari narxini pasaytirishga majbur bo'ldi. ",
+      "imageUrl":"/assets/car.jpeg",
+      "newsUrl":"https://kun.uz/news/2024/02/28/apple-elektromobil-ishlab-chiqarish-loyihasidan-voz-kechdi",
+      "xashtag":[
+        "#Apple", "#elektromobil"
+      ],
+      "seenCounter":4009,
+      "postedAt":"28.02.2024"
+    }
+  ]
+}
